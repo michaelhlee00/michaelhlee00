@@ -24,4 +24,4 @@ Kaggle weather challenge with ROC-AUC score ~0.857
 ---
 
 ## 📈 GitHub Stats
-![Hosoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hosoo&show_icons=true&theme=tokyonight)
+![Hosoo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelhlee00&show_icons=true&theme=tokyonight)
